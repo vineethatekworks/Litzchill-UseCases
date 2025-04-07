@@ -1,0 +1,25 @@
+// deno-lint-ignore-file
+
+//common error response 
+export  function ErrorResponse(statusCode: number, message: string){
+    const time = new Date();
+    return new Response(JSON.stringify({statusCode,message,time}), {
+        status: statusCode,
+        headers: { "Content-Type": "application/json" },
+    });
+}
+
+export function SuccessResponse(statusCode: number, message: string, data?: any) {
+    return new Response(
+        JSON.stringify({
+            statusCode,
+            message,
+            ...(data !== undefined ? { data } : {}),
+            timestamp: new Date().toISOString(),
+        }),
+        {
+            status: statusCode,
+            headers: { "Content-Type": "application/json" },
+        }
+    );
+}
