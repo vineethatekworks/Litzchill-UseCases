@@ -1,0 +1,14 @@
+{
+  "scriptId": "338",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/supabase-js/2.48.1/dist/main/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 0, "endOffset": 3112, "count": 1 },
+        { "startOffset": 200, "endOffset": 382, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

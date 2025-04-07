@@ -1,0 +1,132 @@
+{
+  "scriptId": "340",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/supabase-js/2.48.1/dist/main/SupabaseClient.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10823, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 10822, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 10758, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__awaiter",
+      "ranges": [{ "startOffset": 294, "endOffset": 929, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SupabaseClient",
+      "ranges": [
+        { "startOffset": 2631, "endOffset": 5219, "count": 1 },
+        { "startOffset": 2822, "endOffset": 2866, "count": 0 },
+        { "startOffset": 2905, "endOffset": 2949, "count": 0 },
+        { "startOffset": 3873, "endOffset": 3882, "count": 0 },
+        { "startOffset": 3989, "endOffset": 3993, "count": 0 },
+        { "startOffset": 4080, "endOffset": 4084, "count": 0 },
+        { "startOffset": 4228, "endOffset": 4232, "count": 0 },
+        { "startOffset": 4281, "endOffset": 4648, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 4411, "endOffset": 4621, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get functions",
+      "ranges": [{ "startOffset": 5314, "endOffset": 5492, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get storage",
+      "ranges": [{ "startOffset": 5608, "endOffset": 5719, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "from",
+      "ranges": [{ "startOffset": 5849, "endOffset": 5912, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "schema",
+      "ranges": [{ "startOffset": 6208, "endOffset": 6271, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rpc",
+      "ranges": [{ "startOffset": 7321, "endOffset": 7410, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "channel",
+      "ranges": [{ "startOffset": 7666, "endOffset": 7760, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getChannels",
+      "ranges": [{ "startOffset": 7819, "endOffset": 7884, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeChannel",
+      "ranges": [{ "startOffset": 8066, "endOffset": 8149, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeAllChannels",
+      "ranges": [{ "startOffset": 8246, "endOffset": 8323, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getAccessToken",
+      "ranges": [{ "startOffset": 8328, "endOffset": 8743, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_initSupabaseAuthClient",
+      "ranges": [{ "startOffset": 8748, "endOffset": 9698, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_initRealtimeClient",
+      "ranges": [
+        { "startOffset": 9703, "endOffset": 9972, "count": 1 },
+        { "startOffset": 9935, "endOffset": 9943, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_listenForAuthEvents",
+      "ranges": [{ "startOffset": 9977, "endOffset": 10236, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 10049, "endOffset": 10207, "count": 1 },
+        { "startOffset": 10142, "endOffset": 10163, "count": 0 },
+        { "startOffset": 10173, "endOffset": 10195, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_handleTokenChanged",
+      "ranges": [
+        { "startOffset": 10241, "endOffset": 10677, "count": 1 },
+        { "startOffset": 10352, "endOffset": 10400, "count": 0 },
+        { "startOffset": 10402, "endOffset": 10458, "count": 0 },
+        { "startOffset": 10500, "endOffset": 10671, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

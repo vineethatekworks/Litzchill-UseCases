@@ -1,0 +1,24 @@
+{
+  "scriptId": "321",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_responses/Response.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 633, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ErrorResponse",
+      "ranges": [{ "startOffset": 57, "endOffset": 308, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "SuccessResponse",
+      "ranges": [
+        { "startOffset": 316, "endOffset": 632, "count": 5 },
+        { "startOffset": 485, "endOffset": 489, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

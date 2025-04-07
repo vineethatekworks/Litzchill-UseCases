@@ -1,0 +1,39 @@
+{
+  "scriptId": "371",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/storage-js/2.7.1/dist/main/StorageClient.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1158, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1157, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1093, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 306, "endOffset": 387, "count": 2 },
+        { "startOffset": 364, "endOffset": 384, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "StorageClient",
+      "ranges": [{ "startOffset": 709, "endOffset": 790, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "from",
+      "ranges": [{ "startOffset": 907, "endOffset": 1008, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

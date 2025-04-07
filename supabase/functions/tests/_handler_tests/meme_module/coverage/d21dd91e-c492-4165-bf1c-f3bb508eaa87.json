@@ -1,0 +1,55 @@
+{
+  "scriptId": "341",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/functions-js/2.4.4/dist/main/helper.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1912, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1911, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 176, "endOffset": 1847, "count": 1 },
+        { "startOffset": 643, "endOffset": 724, "count": 0 },
+        { "startOffset": 900, "endOffset": 942, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 324, "endOffset": 641, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 646, "endOffset": 723, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 807, "endOffset": 898, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__setModuleDefault",
+      "ranges": [{ "startOffset": 902, "endOffset": 942, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "__importStar",
+      "ranges": [{ "startOffset": 995, "endOffset": 1275, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resolveFetch",
+      "ranges": [{ "startOffset": 1392, "endOffset": 1772, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

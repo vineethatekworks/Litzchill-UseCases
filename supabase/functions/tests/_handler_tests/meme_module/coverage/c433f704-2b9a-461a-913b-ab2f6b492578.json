@@ -1,0 +1,60 @@
+{
+  "scriptId": "315",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/tests/_handler_tests/meme_module/getAllmemes_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5852, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mockGetAllMemesQuery",
+      "ranges": [{ "startOffset": 429, "endOffset": 666, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getAllMemesQuery",
+      "ranges": [
+        { "startOffset": 473, "endOffset": 637, "count": 7 },
+        { "startOffset": 566, "endOffset": 612, "count": 1 },
+        { "startOffset": 612, "endOffset": 636, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 709, "endOffset": 1418, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1478, "endOffset": 2180, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2240, "endOffset": 2937, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2997, "endOffset": 3695, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3757, "endOffset": 4456, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4497, "endOffset": 5133, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5194, "endOffset": 5849, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

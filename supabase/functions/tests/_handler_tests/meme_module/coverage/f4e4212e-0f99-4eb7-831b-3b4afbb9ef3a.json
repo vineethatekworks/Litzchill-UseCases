@@ -1,0 +1,26 @@
+{
+  "scriptId": "387",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/supabase-js/2.48.1/dist/main/lib/SupabaseAuthClient.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 675, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 674, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 610, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "SupabaseAuthClient",
+      "ranges": [{ "startOffset": 458, "endOffset": 510, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

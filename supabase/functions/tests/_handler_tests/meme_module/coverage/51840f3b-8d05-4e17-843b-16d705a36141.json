@@ -1,0 +1,23 @@
+{
+  "scriptId": "316",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_handler/_meme_module/DeleteMeme.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1405, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DeletememebyID",
+      "ranges": [
+        { "startOffset": 490, "endOffset": 1404, "count": 5 },
+        { "startOffset": 744, "endOffset": 767, "count": 4 },
+        { "startOffset": 769, "endOffset": 856, "count": 2 },
+        { "startOffset": 856, "endOffset": 995, "count": 3 },
+        { "startOffset": 995, "endOffset": 1011, "count": 2 },
+        { "startOffset": 1011, "endOffset": 1402, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

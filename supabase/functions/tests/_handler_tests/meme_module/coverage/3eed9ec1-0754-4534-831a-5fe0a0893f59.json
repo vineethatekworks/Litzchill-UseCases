@@ -1,0 +1,397 @@
+{
+  "scriptId": "349",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/node-fetch/2.6.15/lib/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 46036, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 46035, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 176, "endOffset": 45971, "count": 1 },
+        { "startOffset": 27840, "endOffset": 27856, "count": 0 },
+        { "startOffset": 34621, "endOffset": 34637, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_interopDefault",
+      "ranges": [
+        { "startOffset": 315, "endOffset": 429, "count": 6 },
+        { "startOffset": 386, "endOffset": 404, "count": 5 },
+        { "startOffset": 406, "endOffset": 421, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Blob",
+      "ranges": [{ "startOffset": 994, "endOffset": 2016, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get size",
+      "ranges": [{ "startOffset": 2018, "endOffset": 2063, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get type",
+      "ranges": [{ "startOffset": 2065, "endOffset": 2101, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "text",
+      "ranges": [{ "startOffset": 2103, "endOffset": 2165, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "arrayBuffer",
+      "ranges": [{ "startOffset": 2167, "endOffset": 2323, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stream",
+      "ranges": [{ "startOffset": 2325, "endOffset": 2481, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toString",
+      "ranges": [{ "startOffset": 2483, "endOffset": 2524, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "slice",
+      "ranges": [{ "startOffset": 2526, "endOffset": 3268, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FetchError",
+      "ranges": [{ "startOffset": 3869, "endOffset": 4250, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Body",
+      "ranges": [{ "startOffset": 4741, "endOffset": 6074, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get body",
+      "ranges": [{ "startOffset": 6096, "endOffset": 6142, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get bodyUsed",
+      "ranges": [{ "startOffset": 6146, "endOffset": 6201, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "arrayBuffer",
+      "ranges": [{ "startOffset": 6275, "endOffset": 6430, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "blob",
+      "ranges": [{ "startOffset": 6500, "endOffset": 6764, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "json",
+      "ranges": [{ "startOffset": 6831, "endOffset": 7136, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "text",
+      "ranges": [{ "startOffset": 7203, "endOffset": 7306, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buffer",
+      "ranges": [{ "startOffset": 7390, "endOffset": 7436, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "textConverted",
+      "ranges": [{ "startOffset": 7596, "endOffset": 7748, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Body.mixIn",
+      "ranges": [
+        { "startOffset": 8044, "endOffset": 8319, "count": 2 },
+        { "startOffset": 8127, "endOffset": 8317, "count": 16 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "consumeBody",
+      "ranges": [{ "startOffset": 8472, "endOffset": 10758, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convertBody",
+      "ranges": [{ "startOffset": 11039, "endOffset": 12316, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isURLSearchParams",
+      "ranges": [{ "startOffset": 12524, "endOffset": 13079, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isBlob",
+      "ranges": [{ "startOffset": 13199, "endOffset": 13545, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 13671, "endOffset": 14313, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "extractContentType",
+      "ranges": [{ "startOffset": 14607, "endOffset": 15656, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getTotalBytes",
+      "ranges": [{ "startOffset": 15994, "endOffset": 16590, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writeToStream",
+      "ranges": [{ "startOffset": 16740, "endOffset": 17066, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateName",
+      "ranges": [{ "startOffset": 17305, "endOffset": 17476, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateValue",
+      "ranges": [{ "startOffset": 17478, "endOffset": 17646, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "find",
+      "ranges": [{ "startOffset": 17819, "endOffset": 17978, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Headers",
+      "ranges": [{ "startOffset": 18121, "endOffset": 19660, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 19779, "endOffset": 19956, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "forEach",
+      "ranges": [{ "startOffset": 20185, "endOffset": 20552, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set",
+      "ranges": [{ "startOffset": 20707, "endOffset": 20908, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "append",
+      "ranges": [{ "startOffset": 21064, "endOffset": 21316, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "has",
+      "ranges": [{ "startOffset": 21430, "endOffset": 21532, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "delete",
+      "ranges": [{ "startOffset": 21646, "endOffset": 21799, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "raw",
+      "ranges": [{ "startOffset": 21874, "endOffset": 21904, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "keys",
+      "ranges": [{ "startOffset": 21972, "endOffset": 22028, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "values",
+      "ranges": [{ "startOffset": 22098, "endOffset": 22158, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 22289, "endOffset": 22364, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getHeaders",
+      "ranges": [{ "startOffset": 22896, "endOffset": 23302, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createHeadersIterator",
+      "ranges": [{ "startOffset": 23342, "endOffset": 23524, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "next",
+      "ranges": [{ "startOffset": 23584, "endOffset": 24148, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exportNodeCompatibleHeaders",
+      "ranges": [{ "startOffset": 24507, "endOffset": 24886, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createHeadersLenient",
+      "ranges": [{ "startOffset": 25083, "endOffset": 25634, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Response",
+      "ranges": [{ "startOffset": 25949, "endOffset": 26590, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get url",
+      "ranges": [{ "startOffset": 26593, "endOffset": 26645, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get status",
+      "ranges": [{ "startOffset": 26648, "endOffset": 26700, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get ok",
+      "ranges": [{ "startOffset": 26781, "endOffset": 26870, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get redirected",
+      "ranges": [{ "startOffset": 26873, "endOffset": 26934, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get statusText",
+      "ranges": [{ "startOffset": 26937, "endOffset": 26997, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get headers",
+      "ranges": [{ "startOffset": 27000, "endOffset": 27054, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 27117, "endOffset": 27319, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseURL",
+      "ranges": [{ "startOffset": 28104, "endOffset": 28480, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isRequest",
+      "ranges": [{ "startOffset": 28662, "endOffset": 28768, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isAbortSignal",
+      "ranges": [{ "startOffset": 28770, "endOffset": 28953, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Request",
+      "ranges": [{ "startOffset": 29110, "endOffset": 31215, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get method",
+      "ranges": [{ "startOffset": 31218, "endOffset": 31270, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get url",
+      "ranges": [{ "startOffset": 31273, "endOffset": 31337, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get headers",
+      "ranges": [{ "startOffset": 31340, "endOffset": 31394, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get redirect",
+      "ranges": [{ "startOffset": 31397, "endOffset": 31453, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get signal",
+      "ranges": [{ "startOffset": 31456, "endOffset": 31508, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 31569, "endOffset": 31609, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getNodeRequestOptions",
+      "ranges": [{ "startOffset": 32198, "endOffset": 34022, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "AbortError",
+      "ranges": [{ "startOffset": 34226, "endOffset": 34452, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isDomainOrSubdomain",
+      "ranges": [{ "startOffset": 34793, "endOffset": 35033, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isSameProtocol",
+      "ranges": [{ "startOffset": 35267, "endOffset": 35432, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetch",
+      "ranges": [{ "startOffset": 35585, "endOffset": 44455, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fixResponseChunkedTransferBadEnding",
+      "ranges": [{ "startOffset": 44456, "endOffset": 45294, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "destroyStream",
+      "ranges": [{ "startOffset": 45296, "endOffset": 45453, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetch.isRedirect",
+      "ranges": [{ "startOffset": 45570, "endOffset": 45675, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

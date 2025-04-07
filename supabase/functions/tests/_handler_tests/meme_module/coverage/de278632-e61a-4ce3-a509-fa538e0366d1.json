@@ -1,0 +1,81 @@
+{
+  "scriptId": "386",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/auth-js/2.67.3/dist/main/GoTrueAdminApi.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10574, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 10573, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 10509, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__rest",
+      "ranges": [{ "startOffset": 288, "endOffset": 739, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "GoTrueAdminApi",
+      "ranges": [{ "startOffset": 957, "endOffset": 1269, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "signOut",
+      "ranges": [{ "startOffset": 1405, "endOffset": 1904, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "inviteUserByEmail",
+      "ranges": [{ "startOffset": 2096, "endOffset": 2646, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "generateLink",
+      "ranges": [{ "startOffset": 3011, "endOffset": 4135, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createUser",
+      "ranges": [{ "startOffset": 4314, "endOffset": 4786, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listUsers",
+      "ranges": [{ "startOffset": 5062, "endOffset": 6956, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getUserById",
+      "ranges": [{ "startOffset": 7170, "endOffset": 7608, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateUserById",
+      "ranges": [{ "startOffset": 7836, "endOffset": 8323, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deleteUser",
+      "ranges": [{ "startOffset": 8807, "endOffset": 9372, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_listFactors",
+      "ranges": [{ "startOffset": 9377, "endOffset": 9954, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_deleteFactor",
+      "ranges": [{ "startOffset": 9959, "endOffset": 10428, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

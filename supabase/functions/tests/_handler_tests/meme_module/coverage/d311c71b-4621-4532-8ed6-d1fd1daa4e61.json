@@ -1,0 +1,11 @@
+{
+  "scriptId": "333",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_shared/_db_table_details/MemeTableFields.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 372, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

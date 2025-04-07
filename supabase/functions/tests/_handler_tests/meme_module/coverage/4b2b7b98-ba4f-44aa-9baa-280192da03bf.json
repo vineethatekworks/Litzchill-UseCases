@@ -1,0 +1,46 @@
+{
+  "scriptId": "373",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/storage-js/2.7.1/dist/main/lib/errors.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1525, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1524, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1460, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "StorageError",
+      "ranges": [{ "startOffset": 464, "endOffset": 590, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isStorageError",
+      "ranges": [{ "startOffset": 630, "endOffset": 751, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "StorageApiError",
+      "ranges": [{ "startOffset": 842, "endOffset": 971, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [{ "startOffset": 976, "endOffset": 1117, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "StorageUnknownError",
+      "ranges": [{ "startOffset": 1216, "endOffset": 1370, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

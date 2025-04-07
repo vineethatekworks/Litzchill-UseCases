@@ -1,0 +1,100 @@
+{
+  "scriptId": "315",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/tests/_handler_tests/meme_module/creatememe_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10826, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 508, "endOffset": 878, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 928, "endOffset": 1609, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1665, "endOffset": 2352, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2408, "endOffset": 3085, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3133, "endOffset": 3820, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3868, "endOffset": 4551, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4593, "endOffset": 5278, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5327, "endOffset": 6047, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6103, "endOffset": 6780, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mockUploadFileToBucket",
+      "ranges": [{ "startOffset": 6783, "endOffset": 6899, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6836, "endOffset": 6896, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6954, "endOffset": 7674, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mockCreateMemeQuery",
+      "ranges": [{ "startOffset": 7677, "endOffset": 7911, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "CreateMemeQuery",
+      "ranges": [
+        { "startOffset": 7720, "endOffset": 7883, "count": 3 },
+        { "startOffset": 7812, "endOffset": 7858, "count": 1 },
+        { "startOffset": 7858, "endOffset": 7882, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 7942, "endOffset": 8966, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 8997, "endOffset": 9893, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 9931, "endOffset": 10823, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

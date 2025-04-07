@@ -1,0 +1,76 @@
+{
+  "scriptId": "372",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/realtime-js/2.11.2/dist/main/RealtimePresence.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8642, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 8641, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 8577, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 670, "endOffset": 880, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RealtimePresence",
+      "ranges": [{ "startOffset": 1240, "endOffset": 3183, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "syncState",
+      "ranges": [{ "startOffset": 3514, "endOffset": 4843, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "syncDiff",
+      "ranges": [{ "startOffset": 5156, "endOffset": 6656, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "map",
+      "ranges": [{ "startOffset": 6689, "endOffset": 6793, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "transformState",
+      "ranges": [{ "startOffset": 7336, "endOffset": 7992, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cloneDeep",
+      "ranges": [{ "startOffset": 8025, "endOffset": 8095, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onJoin",
+      "ranges": [{ "startOffset": 8121, "endOffset": 8184, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onLeave",
+      "ranges": [{ "startOffset": 8210, "endOffset": 8275, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "onSync",
+      "ranges": [{ "startOffset": 8301, "endOffset": 8364, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "inPendingSyncState",
+      "ranges": [{ "startOffset": 8390, "endOffset": 8492, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scriptId": "337",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_shared/_constants/Types.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 952, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

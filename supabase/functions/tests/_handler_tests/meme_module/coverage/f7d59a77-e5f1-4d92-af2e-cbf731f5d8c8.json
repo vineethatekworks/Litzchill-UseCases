@@ -1,0 +1,29 @@
+{
+  "scriptId": "397",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/auth-js/2.67.3/dist/main/AuthClient.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 697, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 696, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 632, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 306, "endOffset": 387, "count": 1 },
+        { "startOffset": 364, "endOffset": 384, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "scriptId": "341",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/functions-js/2.4.4/dist/main/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1464, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1463, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1399, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 615, "endOffset": 672, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 785, "endOffset": 831, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 915, "endOffset": 966, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 1049, "endOffset": 1099, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 1183, "endOffset": 1234, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 1313, "endOffset": 1359, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

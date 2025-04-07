@@ -1,0 +1,61 @@
+{
+  "scriptId": "356",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/tr46/0.0.3/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7870, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 7869, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 7805, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "normalize",
+      "ranges": [{ "startOffset": 414, "endOffset": 552, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "findStatus",
+      "ranges": [{ "startOffset": 554, "endOffset": 939, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "countSymbols",
+      "ranges": [{ "startOffset": 1002, "endOffset": 1183, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mapChars",
+      "ranges": [{ "startOffset": 1185, "endOffset": 2582, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateLabel",
+      "ranges": [{ "startOffset": 5336, "endOffset": 6229, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "processing",
+      "ranges": [{ "startOffset": 6231, "endOffset": 6766, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "module.exports.toASCII",
+      "ranges": [{ "startOffset": 6793, "endOffset": 7527, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "module.exports.toUnicode",
+      "ranges": [{ "startOffset": 7557, "endOffset": 7744, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

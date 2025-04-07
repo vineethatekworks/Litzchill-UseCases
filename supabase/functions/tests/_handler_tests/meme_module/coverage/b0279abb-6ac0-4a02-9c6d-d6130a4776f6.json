@@ -1,0 +1,41 @@
+{
+  "scriptId": "343",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/functions-js/2.4.4/dist/main/FunctionsClient.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5802, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 5801, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 5737, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__awaiter",
+      "ranges": [{ "startOffset": 294, "endOffset": 929, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FunctionsClient",
+      "ranges": [{ "startOffset": 1130, "endOffset": 1376, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setAuth",
+      "ranges": [{ "startOffset": 1510, "endOffset": 1588, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "invoke",
+      "ranges": [{ "startOffset": 1759, "endOffset": 5646, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

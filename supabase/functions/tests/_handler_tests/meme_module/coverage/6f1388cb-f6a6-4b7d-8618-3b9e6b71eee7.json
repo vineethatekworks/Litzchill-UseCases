@@ -1,0 +1,131 @@
+{
+  "scriptId": "374",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/storage-js/2.7.1/dist/main/packages/StorageFileApi.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 24713, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 24712, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 24648, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__awaiter",
+      "ranges": [{ "startOffset": 294, "endOffset": 929, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "StorageFileApi",
+      "ranges": [{ "startOffset": 1408, "endOffset": 1610, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "uploadOrUpdate",
+      "ranges": [{ "startOffset": 2014, "endOffset": 4795, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "upload",
+      "ranges": [{ "startOffset": 5115, "endOffset": 5309, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "uploadToSignedUrl",
+      "ranges": [{ "startOffset": 5720, "endOffset": 7845, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createSignedUploadUrl",
+      "ranges": [{ "startOffset": 8237, "endOffset": 9324, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "update",
+      "ranges": [{ "startOffset": 9654, "endOffset": 9847, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "move",
+      "ranges": [{ "startOffset": 10203, "endOffset": 10979, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "copy",
+      "ranges": [{ "startOffset": 11337, "endOffset": 12133, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createSignedUrl",
+      "ranges": [{ "startOffset": 12755, "endOffset": 13839, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createSignedUrls",
+      "ranges": [{ "startOffset": 14430, "endOffset": 15497, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "download",
+      "ranges": [{ "startOffset": 15850, "endOffset": 17019, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "info",
+      "ranges": [{ "startOffset": 17109, "endOffset": 17733, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exists",
+      "ranges": [{ "startOffset": 17812, "endOffset": 18658, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getPublicUrl",
+      "ranges": [{ "startOffset": 19455, "endOffset": 20599, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "remove",
+      "ranges": [{ "startOffset": 20790, "endOffset": 21316, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "list",
+      "ranges": [{ "startOffset": 22870, "endOffset": 23549, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "encodeMetadata",
+      "ranges": [{ "startOffset": 23554, "endOffset": 23627, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toBase64",
+      "ranges": [{ "startOffset": 23632, "endOffset": 23793, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getFinalPath",
+      "ranges": [{ "startOffset": 23798, "endOffset": 23868, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_removeEmptyFolders",
+      "ranges": [{ "startOffset": 23873, "endOffset": 23972, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "transformOptsToQueryString",
+      "ranges": [{ "startOffset": 23977, "endOffset": 24567, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "scriptId": "329",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_repository/_meme_repo/MemeRepository.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9789, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "meme_exists",
+      "ranges": [{ "startOffset": 448, "endOffset": 790, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "uploadFileToBucket",
+      "ranges": [{ "startOffset": 1124, "endOffset": 2424, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createMemeQuery",
+      "ranges": [{ "startOffset": 2795, "endOffset": 3142, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updatememeQuery",
+      "ranges": [{ "startOffset": 3765, "endOffset": 4312, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deleteMemeQuery",
+      "ranges": [{ "startOffset": 4760, "endOffset": 5325, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fetchMemes",
+      "ranges": [{ "startOffset": 5984, "endOffset": 7395, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getMemeByIdQuery",
+      "ranges": [{ "startOffset": 7622, "endOffset": 9081, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "updateMemeStatusQuery",
+      "ranges": [{ "startOffset": 9369, "endOffset": 9788, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

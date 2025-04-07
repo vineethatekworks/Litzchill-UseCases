@@ -1,0 +1,71 @@
+{
+  "scriptId": "375",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/storage-js/2.7.1/dist/main/lib/fetch.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4405, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4404, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4340, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__awaiter",
+      "ranges": [{ "startOffset": 294, "endOffset": 929, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getErrorMessage",
+      "ranges": [{ "startOffset": 1180, "endOffset": 1272, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleError",
+      "ranges": [{ "startOffset": 1294, "endOffset": 1936, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getRequestParams",
+      "ranges": [{ "startOffset": 1964, "endOffset": 2452, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_handleRequest",
+      "ranges": [{ "startOffset": 2454, "endOffset": 3139, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 3140, "endOffset": 3330, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "post",
+      "ranges": [{ "startOffset": 3350, "endOffset": 3554, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "put",
+      "ranges": [{ "startOffset": 3576, "endOffset": 3778, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "head",
+      "ranges": [{ "startOffset": 3798, "endOffset": 4049, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "remove",
+      "ranges": [{ "startOffset": 4071, "endOffset": 4279, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

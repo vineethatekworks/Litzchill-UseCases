@@ -1,0 +1,60 @@
+{
+  "scriptId": "315",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/tests/_handler_tests/meme_module/UpdateStatus_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4949, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mockUpdateMemeStatusQuery",
+      "ranges": [{ "startOffset": 498, "endOffset": 782, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "updateMemeStatusQuery",
+      "ranges": [
+        { "startOffset": 547, "endOffset": 748, "count": 3 },
+        { "startOffset": 677, "endOffset": 723, "count": 1 },
+        { "startOffset": 723, "endOffset": 747, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 831, "endOffset": 1260, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1292, "endOffset": 1707, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1743, "endOffset": 2227, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2263, "endOffset": 2775, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2824, "endOffset": 3492, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3537, "endOffset": 4220, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4281, "endOffset": 4946, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

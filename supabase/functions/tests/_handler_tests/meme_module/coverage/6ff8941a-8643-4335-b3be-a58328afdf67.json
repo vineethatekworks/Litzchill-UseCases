@@ -1,0 +1,40 @@
+{
+  "scriptId": "395",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/auth-js/2.67.3/dist/main/lib/locks.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8668, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 8667, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 176, "endOffset": 8603, "count": 1 },
+        { "startOffset": 703, "endOffset": 737, "count": 0 },
+        { "startOffset": 738, "endOffset": 825, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "LockAcquireTimeoutError",
+      "ranges": [{ "startOffset": 1054, "endOffset": 1144, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "navigatorLock",
+      "ranges": [{ "startOffset": 2791, "endOffset": 6204, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "processLock",
+      "ranges": [{ "startOffset": 6984, "endOffset": 8532, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

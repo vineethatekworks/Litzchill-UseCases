@@ -1,0 +1,34 @@
+{
+  "scriptId": "396",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/auth-js/2.67.3/dist/main/lib/polyfills.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1202, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1201, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1137, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "polyfillGlobalThis",
+      "ranges": [
+        { "startOffset": 403, "endOffset": 1048, "count": 1 },
+        { "startOffset": 490, "endOffset": 1046, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 581, "endOffset": 637, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

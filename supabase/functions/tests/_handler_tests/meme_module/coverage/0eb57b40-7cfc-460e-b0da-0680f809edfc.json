@@ -1,0 +1,193 @@
+{
+  "scriptId": "390",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/auth-js/2.67.3/dist/main/lib/helpers.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 12414, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 12413, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 176, "endOffset": 12349, "count": 1 },
+        { "startOffset": 643, "endOffset": 724, "count": 0 },
+        { "startOffset": 900, "endOffset": 942, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 324, "endOffset": 641, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 646, "endOffset": 723, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 807, "endOffset": 898, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__setModuleDefault",
+      "ranges": [{ "startOffset": 902, "endOffset": 942, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "__importStar",
+      "ranges": [{ "startOffset": 995, "endOffset": 1275, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "expiresAt",
+      "ranges": [{ "startOffset": 1880, "endOffset": 1996, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "uuid",
+      "ranges": [{ "startOffset": 2028, "endOffset": 2248, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 2113, "endOffset": 2244, "count": 31 },
+        { "startOffset": 2185, "endOffset": 2188, "count": 30 },
+        { "startOffset": 2189, "endOffset": 2206, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isBrowser",
+      "ranges": [
+        { "startOffset": 2288, "endOffset": 2358, "count": 5 },
+        { "startOffset": 2324, "endOffset": 2358, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "supportsLocalStorage",
+      "ranges": [
+        { "startOffset": 2565, "endOffset": 3624, "count": 2 },
+        { "startOffset": 2637, "endOffset": 2742, "count": 0 },
+        { "startOffset": 2753, "endOffset": 3623, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseParametersFromURL",
+      "ranges": [{ "startOffset": 3761, "endOffset": 4355, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resolveFetch",
+      "ranges": [
+        { "startOffset": 4434, "endOffset": 4814, "count": 2 },
+        { "startOffset": 4490, "endOffset": 4527, "count": 0 },
+        { "startOffset": 4571, "endOffset": 4730, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_fetch",
+      "ranges": [{ "startOffset": 4590, "endOffset": 4723, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4783, "endOffset": 4811, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "looksLikeFetchResponse",
+      "ranges": [{ "startOffset": 4884, "endOffset": 5145, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setItemAsync",
+      "ranges": [{ "startOffset": 5244, "endOffset": 5331, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getItemAsync",
+      "ranges": [
+        { "startOffset": 5391, "endOffset": 5604, "count": 2 },
+        { "startOffset": 5507, "endOffset": 5602, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "removeItemAsync",
+      "ranges": [{ "startOffset": 5667, "endOffset": 5729, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decodeBase64URL",
+      "ranges": [{ "startOffset": 5774, "endOffset": 6684, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Deferred",
+      "ranges": [{ "startOffset": 6953, "endOffset": 7286, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decodeJWTPayload",
+      "ranges": [{ "startOffset": 7479, "endOffset": 7996, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sleep",
+      "ranges": [{ "startOffset": 8110, "endOffset": 8237, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "retryable",
+      "ranges": [{ "startOffset": 8465, "endOffset": 9221, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dec2hex",
+      "ranges": [{ "startOffset": 9253, "endOffset": 9326, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "generatePKCEVerifier",
+      "ranges": [{ "startOffset": 9482, "endOffset": 10059, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sha256",
+      "ranges": [{ "startOffset": 10113, "endOffset": 10446, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "base64urlencode",
+      "ranges": [{ "startOffset": 10447, "endOffset": 10561, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "generatePKCEChallenge",
+      "ranges": [{ "startOffset": 10562, "endOffset": 11029, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getCodeChallengeAndMethod",
+      "ranges": [{ "startOffset": 11085, "endOffset": 11656, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseResponseAPIVersion",
+      "ranges": [{ "startOffset": 11859, "endOffset": 12252, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

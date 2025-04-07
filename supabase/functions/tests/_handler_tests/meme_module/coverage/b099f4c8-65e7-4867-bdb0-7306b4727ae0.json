@@ -1,0 +1,73 @@
+{
+  "scriptId": "336",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_shared/_validation/Meme_Validations.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4638, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "contentTypeValidations",
+      "ranges": [
+        { "startOffset": 729, "endOffset": 981, "count": 13 },
+        { "startOffset": 795, "endOffset": 842, "count": 12 },
+        { "startOffset": 844, "endOffset": 964, "count": 1 },
+        { "startOffset": 964, "endOffset": 980, "count": 12 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseTags",
+      "ranges": [
+        { "startOffset": 1540, "endOffset": 2004, "count": 12 },
+        { "startOffset": 1585, "endOffset": 1615, "count": 11 },
+        { "startOffset": 1617, "endOffset": 1716, "count": 1 },
+        { "startOffset": 1716, "endOffset": 1754, "count": 11 },
+        { "startOffset": 1754, "endOffset": 1785, "count": 0 },
+        { "startOffset": 1787, "endOffset": 1950, "count": 0 },
+        { "startOffset": 1950, "endOffset": 2003, "count": 11 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1983, "endOffset": 2000, "count": 22 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validateMemeData",
+      "ranges": [
+        { "startOffset": 2241, "endOffset": 2864, "count": 12 },
+        { "startOffset": 2733, "endOffset": 2826, "count": 8 },
+        { "startOffset": 2826, "endOffset": 2863, "count": 4 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validateMemeFields",
+      "ranges": [
+        { "startOffset": 3136, "endOffset": 4040, "count": 12 },
+        { "startOffset": 3333, "endOffset": 3622, "count": 11 },
+        { "startOffset": 3372, "endOffset": 3405, "count": 10 },
+        { "startOffset": 3407, "endOffset": 3489, "count": 1 },
+        { "startOffset": 3542, "endOffset": 3618, "count": 1 },
+        { "startOffset": 3711, "endOffset": 4038, "count": 11 },
+        { "startOffset": 3785, "endOffset": 4034, "count": 22 },
+        { "startOffset": 3832, "endOffset": 3912, "count": 1 },
+        { "startOffset": 3955, "endOffset": 4028, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "checkRequiredFields",
+      "ranges": [
+        { "startOffset": 4342, "endOffset": 4637, "count": 12 },
+        { "startOffset": 4430, "endOffset": 4482, "count": 1 },
+        { "startOffset": 4517, "endOffset": 4563, "count": 1 },
+        { "startOffset": 4583, "endOffset": 4635, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

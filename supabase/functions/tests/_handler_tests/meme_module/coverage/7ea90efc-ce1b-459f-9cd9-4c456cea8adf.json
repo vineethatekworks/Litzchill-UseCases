@@ -1,0 +1,11 @@
+{
+  "scriptId": "332",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_shared/_db_table_details/TableNames.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 222, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

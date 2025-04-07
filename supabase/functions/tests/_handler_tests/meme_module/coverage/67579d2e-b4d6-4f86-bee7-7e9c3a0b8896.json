@@ -1,0 +1,59 @@
+{
+  "scriptId": "348",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/postgrest-js/1.18.1/dist/cjs/PostgrestQueryBuilder.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10281, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 10280, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 10216, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 306, "endOffset": 387, "count": 1 },
+        { "startOffset": 364, "endOffset": 384, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "PostgrestQueryBuilder",
+      "ranges": [{ "startOffset": 573, "endOffset": 745, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "select",
+      "ranges": [{ "startOffset": 1557, "endOffset": 2478, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "insert",
+      "ranges": [{ "startOffset": 3429, "endOffset": 4520, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "upsert",
+      "ranges": [{ "startOffset": 6259, "endOffset": 7556, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "update",
+      "ranges": [{ "startOffset": 8261, "endOffset": 8882, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "delete",
+      "ranges": [{ "startOffset": 9530, "endOffset": 10121, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

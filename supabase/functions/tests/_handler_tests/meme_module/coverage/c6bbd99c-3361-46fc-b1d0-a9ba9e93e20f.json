@@ -1,0 +1,49 @@
+{
+  "scriptId": "347",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/postgrest-js/1.18.1/dist/cjs/PostgrestClient.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4814, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4813, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 4749, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 306, "endOffset": 387, "count": 2 },
+        { "startOffset": 364, "endOffset": 384, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "PostgrestClient",
+      "ranges": [{ "startOffset": 1443, "endOffset": 1687, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "from",
+      "ranges": [{ "startOffset": 1817, "endOffset": 2087, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "schema",
+      "ranges": [{ "startOffset": 2310, "endOffset": 2477, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rpc",
+      "ranges": [{ "startOffset": 3457, "endOffset": 4666, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

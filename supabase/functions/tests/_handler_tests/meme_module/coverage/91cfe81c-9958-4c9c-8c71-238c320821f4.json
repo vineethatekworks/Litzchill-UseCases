@@ -1,0 +1,11 @@
+{
+  "scriptId": "321",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_shared/_messages/ErrorMessages.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 961, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

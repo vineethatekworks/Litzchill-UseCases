@@ -1,0 +1,11 @@
+{
+  "scriptId": "319",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_shared/_messages/Meme_Module_Messages.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2123, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

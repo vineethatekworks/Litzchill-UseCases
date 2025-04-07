@@ -1,0 +1,28 @@
+{
+  "scriptId": "326",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_handler/_meme_module/UpdateMemeStatus.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2086, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "updateMemeStatus",
+      "ranges": [
+        { "startOffset": 630, "endOffset": 2085, "count": 7 },
+        { "startOffset": 883, "endOffset": 906, "count": 6 },
+        { "startOffset": 908, "endOffset": 995, "count": 2 },
+        { "startOffset": 995, "endOffset": 1133, "count": 5 },
+        { "startOffset": 1133, "endOffset": 1226, "count": 1 },
+        { "startOffset": 1226, "endOffset": 1393, "count": 4 },
+        { "startOffset": 1393, "endOffset": 1480, "count": 1 },
+        { "startOffset": 1480, "endOffset": 1615, "count": 3 },
+        { "startOffset": 1615, "endOffset": 1630, "count": 2 },
+        { "startOffset": 1630, "endOffset": 1651, "count": 1 },
+        { "startOffset": 1653, "endOffset": 2083, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

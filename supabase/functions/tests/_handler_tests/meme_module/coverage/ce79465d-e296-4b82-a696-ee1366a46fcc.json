@@ -1,0 +1,74 @@
+{
+  "scriptId": "388",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/auth-js/2.67.3/dist/main/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2415, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2414, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 176, "endOffset": 2350, "count": 1 },
+        { "startOffset": 643, "endOffset": 724, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 324, "endOffset": 641, "count": 17 },
+        { "startOffset": 468, "endOffset": 483, "count": 0 },
+        { "startOffset": 500, "endOffset": 520, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 563, "endOffset": 590, "count": 17 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 646, "endOffset": 723, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__exportStar",
+      "ranges": [
+        { "startOffset": 777, "endOffset": 928, "count": 2 },
+        { "startOffset": 821, "endOffset": 926, "count": 17 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 986, "endOffset": 1067, "count": 4 },
+        { "startOffset": 1044, "endOffset": 1064, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 1985, "endOffset": 2030, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 2127, "endOffset": 2191, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 2269, "endOffset": 2310, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

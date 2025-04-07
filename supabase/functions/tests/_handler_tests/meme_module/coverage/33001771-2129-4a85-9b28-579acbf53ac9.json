@@ -1,0 +1,46 @@
+{
+  "scriptId": "345",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/functions-js/2.4.4/dist/main/types.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2367, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2366, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2302, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "FunctionsError",
+      "ranges": [{ "startOffset": 501, "endOffset": 645, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FunctionsFetchError",
+      "ranges": [{ "startOffset": 744, "endOffset": 868, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FunctionsRelayError",
+      "ranges": [{ "startOffset": 977, "endOffset": 1094, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FunctionsHttpError",
+      "ranges": [{ "startOffset": 1202, "endOffset": 1324, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1442, "endOffset": 2190, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

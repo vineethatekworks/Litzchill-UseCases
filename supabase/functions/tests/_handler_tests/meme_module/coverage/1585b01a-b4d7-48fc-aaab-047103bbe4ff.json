@@ -1,0 +1,56 @@
+{
+  "scriptId": "394",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/auth-js/2.67.3/dist/main/lib/local-storage.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1613, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1612, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1548, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getItem",
+      "ranges": [{ "startOffset": 545, "endOffset": 703, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setItem",
+      "ranges": [{ "startOffset": 718, "endOffset": 878, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeItem",
+      "ranges": [{ "startOffset": 896, "endOffset": 1045, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "memoryLocalStorageAdapter",
+      "ranges": [{ "startOffset": 1142, "endOffset": 1441, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getItem",
+      "ranges": [{ "startOffset": 1221, "endOffset": 1280, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "setItem",
+      "ranges": [{ "startOffset": 1299, "endOffset": 1358, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeItem",
+      "ranges": [{ "startOffset": 1380, "endOffset": 1431, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "scriptId": "343",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/postgrest-js/1.18.1/dist/cjs/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1998, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1997, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1933, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 306, "endOffset": 387, "count": 6 },
+        { "startOffset": 364, "endOffset": 384, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

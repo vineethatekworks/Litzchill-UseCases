@@ -1,0 +1,95 @@
+{
+  "scriptId": "353",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/webidl-conversions/3.0.1/lib/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5359, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 5358, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 5294, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sign",
+      "ranges": [{ "startOffset": 304, "endOffset": 351, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "evenRound",
+      "ranges": [{ "startOffset": 353, "endOffset": 642, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createNumberConversion",
+      "ranges": [
+        { "startOffset": 644, "endOffset": 2255, "count": 8 },
+        { "startOffset": 727, "endOffset": 755, "count": 4 },
+        { "startOffset": 797, "endOffset": 800, "count": 4 },
+        { "startOffset": 801, "endOffset": 826, "count": 4 },
+        { "startOffset": 927, "endOffset": 966, "count": 2 },
+        { "startOffset": 967, "endOffset": 991, "count": 6 },
+        { "startOffset": 1042, "endOffset": 1085, "count": 2 },
+        { "startOffset": 1086, "endOffset": 1114, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1128, "endOffset": 2253, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "conversions.void",
+      "ranges": [{ "startOffset": 2279, "endOffset": 2316, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "conversions.boolean",
+      "ranges": [{ "startOffset": 2344, "endOffset": 2380, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "conversions.double",
+      "ranges": [{ "startOffset": 3055, "endOffset": 3220, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "conversions.unrestricted double",
+      "ranges": [{ "startOffset": 3260, "endOffset": 3384, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "conversions.DOMString",
+      "ranges": [{ "startOffset": 3576, "endOffset": 3726, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "conversions.ByteString",
+      "ranges": [{ "startOffset": 3757, "endOffset": 4017, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "conversions.USVString",
+      "ranges": [{ "startOffset": 4047, "endOffset": 4945, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "conversions.Date",
+      "ranges": [{ "startOffset": 4970, "endOffset": 5159, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "conversions.RegExp",
+      "ranges": [{ "startOffset": 5186, "endOffset": 5290, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "scriptId": "323",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_shared/_validation/Meme_Validations.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4638, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "contentTypeValidations",
+      "ranges": [{ "startOffset": 729, "endOffset": 981, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseTags",
+      "ranges": [
+        { "startOffset": 1540, "endOffset": 2004, "count": 2 },
+        { "startOffset": 1617, "endOffset": 1716, "count": 0 },
+        { "startOffset": 1716, "endOffset": 1754, "count": 1 },
+        { "startOffset": 1754, "endOffset": 1785, "count": 0 },
+        { "startOffset": 1787, "endOffset": 1950, "count": 0 },
+        { "startOffset": 1950, "endOffset": 2003, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1983, "endOffset": 2000, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validateMemeData",
+      "ranges": [
+        { "startOffset": 2241, "endOffset": 2864, "count": 3 },
+        { "startOffset": 2416, "endOffset": 2549, "count": 0 },
+        { "startOffset": 2733, "endOffset": 2826, "count": 1 },
+        { "startOffset": 2826, "endOffset": 2863, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validateMemeFields",
+      "ranges": [
+        { "startOffset": 3136, "endOffset": 4040, "count": 3 },
+        { "startOffset": 3333, "endOffset": 3622, "count": 2 },
+        { "startOffset": 3407, "endOffset": 3489, "count": 0 },
+        { "startOffset": 3542, "endOffset": 3618, "count": 1 },
+        { "startOffset": 3691, "endOffset": 3709, "count": 1 },
+        { "startOffset": 3711, "endOffset": 4038, "count": 1 },
+        { "startOffset": 3832, "endOffset": 3912, "count": 0 },
+        { "startOffset": 3955, "endOffset": 4028, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "checkRequiredFields",
+      "ranges": [{ "startOffset": 4342, "endOffset": 4637, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

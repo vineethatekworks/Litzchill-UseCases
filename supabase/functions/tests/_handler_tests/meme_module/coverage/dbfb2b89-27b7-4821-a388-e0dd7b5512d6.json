@@ -1,0 +1,54 @@
+{
+  "scriptId": "385",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/supabase-js/2.48.1/dist/main/lib/helpers.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2660, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2659, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 2595, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__awaiter",
+      "ranges": [{ "startOffset": 294, "endOffset": 929, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "uuid",
+      "ranges": [{ "startOffset": 1097, "endOffset": 1315, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stripTrailingSlash",
+      "ranges": [{ "startOffset": 1337, "endOffset": 1408, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isBrowser",
+      "ranges": [{ "startOffset": 1476, "endOffset": 1511, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "applySettingDefaults",
+      "ranges": [
+        { "startOffset": 1544, "endOffset": 2504, "count": 1 },
+        { "startOffset": 2340, "endOffset": 2397, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "accessToken",
+      "ranges": [{ "startOffset": 2236, "endOffset": 2302, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

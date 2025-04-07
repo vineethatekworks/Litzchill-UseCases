@@ -1,0 +1,11 @@
+{
+  "scriptId": "318",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_shared/_constants/HttpStatusCodes.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 257, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

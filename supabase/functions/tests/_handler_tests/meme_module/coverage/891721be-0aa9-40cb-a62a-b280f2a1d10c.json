@@ -1,0 +1,11 @@
+{
+  "scriptId": "329",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_shared/_config/DbConfig.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 586, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

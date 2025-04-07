@@ -1,0 +1,49 @@
+{
+  "scriptId": "351",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/postgrest-js/1.18.1/dist/cjs/PostgrestBuilder.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8102, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 8101, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 8037, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 306, "endOffset": 387, "count": 2 },
+        { "startOffset": 364, "endOffset": 384, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "PostgrestBuilder",
+      "ranges": [{ "startOffset": 637, "endOffset": 1282, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "throwOnError",
+      "ranges": [{ "startOffset": 1542, "endOffset": 1625, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setHeader",
+      "ranges": [{ "startOffset": 1689, "endOffset": 1832, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "then",
+      "ranges": [{ "startOffset": 1837, "endOffset": 7952, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

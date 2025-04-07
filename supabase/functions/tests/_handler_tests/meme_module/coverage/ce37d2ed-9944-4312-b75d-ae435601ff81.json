@@ -1,0 +1,41 @@
+{
+  "scriptId": "365",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/realtime-js/2.11.2/dist/main/lib/serializer.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1797, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1796, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 1732, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Serializer",
+      "ranges": [{ "startOffset": 539, "endOffset": 592, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "decode",
+      "ranges": [{ "startOffset": 597, "endOffset": 896, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_binaryDecode",
+      "ranges": [{ "startOffset": 901, "endOffset": 1077, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_decodeBroadcast",
+      "ranges": [{ "startOffset": 1082, "endOffset": 1659, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

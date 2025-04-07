@@ -1,0 +1,11 @@
+{
+  "scriptId": "337",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_shared/_constants/UserRoles.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 106, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

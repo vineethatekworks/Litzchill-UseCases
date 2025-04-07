@@ -1,0 +1,58 @@
+{
+  "scriptId": "322",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_shared/Logger/logger.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1210, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<static_initializer>",
+      "ranges": [{ "startOffset": 32, "endOffset": 47, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Logger",
+      "ranges": [{ "startOffset": 51, "endOffset": 66, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getInstance",
+      "ranges": [
+        { "startOffset": 76, "endOffset": 195, "count": 8 },
+        { "startOffset": 118, "endOffset": 163, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getCallerLocation",
+      "ranges": [
+        { "startOffset": 274, "endOffset": 543, "count": 1 },
+        { "startOffset": 456, "endOffset": 476, "count": 0 },
+        { "startOffset": 508, "endOffset": 542, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "log",
+      "ranges": [{ "startOffset": 546, "endOffset": 706, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "warn",
+      "ranges": [{ "startOffset": 709, "endOffset": 872, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "error",
+      "ranges": [{ "startOffset": 875, "endOffset": 1041, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "info",
+      "ranges": [{ "startOffset": 1044, "endOffset": 1207, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

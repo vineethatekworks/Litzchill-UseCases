@@ -1,0 +1,89 @@
+{
+  "scriptId": "350",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/postgrest-js/1.18.1/dist/cjs/PostgrestTransformBuilder.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8901, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 8900, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 176, "endOffset": 8836, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 306, "endOffset": 387, "count": 1 },
+        { "startOffset": 364, "endOffset": 384, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "select",
+      "ranges": [{ "startOffset": 923, "endOffset": 1609, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "order",
+      "ranges": [{ "startOffset": 2376, "endOffset": 2844, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "limit",
+      "ranges": [{ "startOffset": 3227, "endOffset": 3475, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "range",
+      "ranges": [{ "startOffset": 4285, "endOffset": 4758, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "abortSignal",
+      "ranges": [{ "startOffset": 4904, "endOffset": 4982, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "single",
+      "ranges": [{ "startOffset": 5184, "endOffset": 5291, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "maybeSingle",
+      "ranges": [{ "startOffset": 5501, "endOffset": 5945, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "csv",
+      "ranges": [{ "startOffset": 6014, "endOffset": 6093, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "geojson",
+      "ranges": [{ "startOffset": 6190, "endOffset": 6285, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "explain",
+      "ranges": [{ "startOffset": 7290, "endOffset": 8129, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rollback",
+      "ranges": [{ "startOffset": 8254, "endOffset": 8551, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "returns",
+      "ranges": [{ "startOffset": 8695, "endOffset": 8733, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

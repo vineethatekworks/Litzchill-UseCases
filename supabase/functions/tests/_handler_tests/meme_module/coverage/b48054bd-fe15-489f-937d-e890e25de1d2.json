@@ -1,0 +1,50 @@
+{
+  "scriptId": "315",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/tests/_handler_tests/meme_module/getmemebyID_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3706, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 475, "endOffset": 917, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 962, "endOffset": 1419, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mockgetMemebyIDQuery",
+      "ranges": [{ "startOffset": 1422, "endOffset": 1659, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getMemebyIDQuery",
+      "ranges": [
+        { "startOffset": 1466, "endOffset": 1630, "count": 3 },
+        { "startOffset": 1559, "endOffset": 1605, "count": 1 },
+        { "startOffset": 1605, "endOffset": 1629, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1709, "endOffset": 2300, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2350, "endOffset": 2924, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2979, "endOffset": 3703, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

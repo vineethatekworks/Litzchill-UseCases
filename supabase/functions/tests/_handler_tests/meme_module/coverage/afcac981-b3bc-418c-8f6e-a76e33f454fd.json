@@ -1,0 +1,23 @@
+{
+  "scriptId": "327",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_handler/_meme_module/memegettingbyiD.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2180, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getmemebyID",
+      "ranges": [
+        { "startOffset": 1180, "endOffset": 2179, "count": 5 },
+        { "startOffset": 1499, "endOffset": 1522, "count": 4 },
+        { "startOffset": 1524, "endOffset": 1611, "count": 2 },
+        { "startOffset": 1611, "endOffset": 1742, "count": 3 },
+        { "startOffset": 1742, "endOffset": 1796, "count": 2 },
+        { "startOffset": 1796, "endOffset": 2177, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

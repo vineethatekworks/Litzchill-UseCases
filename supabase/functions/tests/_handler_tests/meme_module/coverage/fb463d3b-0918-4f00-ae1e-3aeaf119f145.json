@@ -1,0 +1,27 @@
+{
+  "scriptId": "325",
+  "url": "file:///C:/Users/Vineetha/typescript/LitchillUseCases/supabase/functions/_handler/_meme_module/CreateMeme.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3773, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createMeme",
+      "ranges": [
+        { "startOffset": 1595, "endOffset": 3772, "count": 13 },
+        { "startOffset": 1987, "endOffset": 1992, "count": 1 },
+        { "startOffset": 2093, "endOffset": 2189, "count": 1 },
+        { "startOffset": 2189, "endOffset": 2753, "count": 12 },
+        { "startOffset": 2753, "endOffset": 2779, "count": 8 },
+        { "startOffset": 2779, "endOffset": 2950, "count": 4 },
+        { "startOffset": 2950, "endOffset": 3052, "count": 1 },
+        { "startOffset": 3052, "endOffset": 3317, "count": 3 },
+        { "startOffset": 3317, "endOffset": 3339, "count": 2 },
+        { "startOffset": 3339, "endOffset": 3770, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

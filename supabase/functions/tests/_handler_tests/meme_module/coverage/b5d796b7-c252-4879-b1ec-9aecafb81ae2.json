@@ -1,0 +1,101 @@
+{
+  "scriptId": "340",
+  "url": "file:///C:/Users/Vineetha/AppData/Local/deno/npm/registry.npmjs.org/@supabase/supabase-js/2.48.1/dist/main/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2981, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2980, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 176, "endOffset": 2916, "count": 1 },
+        { "startOffset": 643, "endOffset": 724, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 324, "endOffset": 641, "count": 32 },
+        { "startOffset": 468, "endOffset": 483, "count": 25 },
+        { "startOffset": 484, "endOffset": 520, "count": 7 },
+        { "startOffset": 500, "endOffset": 520, "count": 0 },
+        { "startOffset": 523, "endOffset": 599, "count": 7 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 563, "endOffset": 590, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 646, "endOffset": 723, "count": 0 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__exportStar",
+      "ranges": [
+        { "startOffset": 777, "endOffset": 928, "count": 2 },
+        { "startOffset": 821, "endOffset": 926, "count": 32 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "__importDefault",
+      "ranges": [
+        { "startOffset": 986, "endOffset": 1067, "count": 1 },
+        { "startOffset": 1044, "endOffset": 1064, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 1606, "endOffset": 1659, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 1798, "endOffset": 1855, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 1939, "endOffset": 1997, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 2081, "endOffset": 2139, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 2218, "endOffset": 2271, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 2350, "endOffset": 2403, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 2591, "endOffset": 2656, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createClient",
+      "ranges": [{ "startOffset": 2724, "endOffset": 2842, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}
